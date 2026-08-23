@@ -425,7 +425,7 @@ The complete datasets and trained model weights are available through the follow
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/folders/1ucjoWXbGEnMUNXvXbB9lb7Wd822pZZCx">
+  <a href="https://drive.google.com/drive/folders/1ucjoWXbGEnMUNXvXbB9lb7Wd822pZZCx?usp=sharing">
     Google Drive — Datasets and Model Weights
   </a>
 </p>
@@ -581,7 +581,7 @@ in the following Google Drive folder:
 </p>
 
 <p>
-  <a href="https://drive.google.com/drive/u/0/folders/1ucjoWXbGEnMUNXvXbB9lb7Wd822pZZCx">
+  <a href="https://drive.google.com/drive/folders/1ucjoWXbGEnMUNXvXbB9lb7Wd822pZZCx?usp=sharing">
     Google Drive — Datasets and Model Weights
   </a>
 </p>
